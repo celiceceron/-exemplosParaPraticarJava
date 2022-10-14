@@ -8,4 +8,4 @@ function somaDeDoisNumeros(num1, num2){
     return retornar
 }
 
-console.log(somaDeDoisNumeros(5,6));
+console.log(somaDeDoisNumeros(365,949));
