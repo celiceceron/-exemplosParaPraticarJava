@@ -8,4 +8,4 @@ function somaTodos(valor1, valor2, valor3){
 
 }
 
-console.log(somaTodos(10, 20, 30));
+console.log(somaTodos(40, 20, 30));
