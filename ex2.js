@@ -7,4 +7,4 @@ function calculaMedia (num1, num2){
     return operacao;
 }
 
-console.log(calculaMedia(10,20));
+console.log(calculaMedia(20,20));
