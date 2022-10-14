@@ -1,13 +1,11 @@
 /* Funcao que retorna a soma de 3 parametros.
 */
 
-function somaTodos(num1, num2, num3){
+function somaTodos(valor1, valor2, valor3){
 
-    num1 = 20;
-    num2 = 30;
-    num3 = 40;
+    const total = (valor1 + valor2 + valor3);
+    return total;
 
-    const soma = (num1 + num2 + num3);
-    return soma
 }
 
+console.log(somaTodos(10, 20, 30));
