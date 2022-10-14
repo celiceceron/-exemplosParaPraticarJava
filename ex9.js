@@ -1,0 +1,5 @@
+/* Funcao recebe um preco e um booleano indicando se ja esta 
+com desconto ou nao. Se o preco for maior que 100 e nao
+estiver com desconto, a funcao deve retornar Quero desconto.
+Caso contrario, deve retornar Negocio Fechado.
+*/
