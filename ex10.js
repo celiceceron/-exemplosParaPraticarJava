@@ -4,7 +4,7 @@ de faltas menor que 10, ou Reprovado caso contrario.
 */
 
 const consultaDoAluno = (mediaDaNota, faltas) => {
-    if (mediaDaNota >= 7, faltas <10){
+    if (mediaDaNota >= 7 && faltas <10){
         console.log("Aprovado");
     } else{
         console.log("Reprovado");
